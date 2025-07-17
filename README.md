@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/devfurkank-wallhaven-mcp-badge.png)](https://mseep.ai/app/devfurkank-wallhaven-mcp)
+
 # Wallhaven MCP Server
 
 A Model Context Protocol (MCP) server for accessing the [Wallhaven](https://wallhaven.cc/) API, allowing AI assistants to search for and retrieve wallpapers.
